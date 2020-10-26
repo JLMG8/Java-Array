@@ -1,2 +1,3 @@
 # Java-Array
-Repocitorio de practicas de array en java.
+Repositorio de practicas de array en java.
+¡Bienvenido al repositorio de ejercicios en java de array!
